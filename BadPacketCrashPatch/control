@@ -1,0 +1,9 @@
+Package: com.floofyplasma.badpacketcrashpatch
+Name: BadPacketCrashPatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A patch for The Blockheads that fixes a crash when someone sends a bad packet.
+Maintainer: FloofyPlasma
+Author: FloofyPlasma
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

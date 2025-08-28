@@ -1,0 +1,9 @@
+Package: com.floofyplasma.freightcarpatch
+Name: FreightcarPatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A patch for The Blockheads that disables freightcars.
+Maintainer: FloofyPlasma
+Author: FloofyPlasma
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

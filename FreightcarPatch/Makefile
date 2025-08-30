@@ -7,6 +7,6 @@ include $(THEOS)/makefiles/common.mk
 TWEAK_NAME = FreightcarPatch
 
 FreightcarPatch_FILES = Tweak.xm
-FreightcarPatch_CFLAGS = -fobjc-arc
+FreightcarPatch_CFLAGS = 
 
 include $(THEOS_MAKE_PATH)/tweak.mk
